@@ -1,3 +1,4 @@
 # Contribuidores:
 
 ### Eduardo
+### Pedro
